@@ -2,8 +2,8 @@
   "settings": {
   },
   "rules": {
-    "pull_request": "orta/peril-bootstrap@dangerfiles/pr.js",
-    "issues": "orta/peril-bootstrap@dangerfiles/issue.js"
+    "pull_request": "dangerfiles/pr.js",
+    "issues": "dangerfiles/issue.js"
   },
   "repos" : {
     "orta/ORStackView": {
